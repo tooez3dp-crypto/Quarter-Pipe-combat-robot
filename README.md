@@ -8,3 +8,6 @@ I made this project because I have always been interested in combat robotics, an
 ![](https://github.com/tooez3dp-crypto/Quarter-Pipe-combat-robot/blob/main/Images/OverviewBack.jpg?raw=true)
 ![](https://github.com/tooez3dp-crypto/Quarter-Pipe-combat-robot/blob/main/Images/WheelView.jpg?raw=true)
 ![](https://github.com/tooez3dp-crypto/Quarter-Pipe-combat-robot/blob/main/Images/WithoutTop.jpg?raw=true)
+# Wiring Diagram
+Here is the basic wiring diagram. It is not finished, and I will be updating it soon.
+![](https://github.com/tooez3dp-crypto/Quarter-Pipe-combat-robot/blob/main/Images/QpWire.jpg?raw=true)
